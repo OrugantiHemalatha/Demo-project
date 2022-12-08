@@ -3,8 +3,10 @@ import java.util.stream.Collectors;
 import java.util.List;
 import java.util.Arrays;
 
-public class collect {
-	public static void main(String[] args) {
+public class collect 
+{
+	public static void main(String[] args) 
+	{
 
 	    List<String> listOfString = Arrays.asList("Java", "C", "C++", "Go",
 	        "JavaScript", "Python", "Scala");

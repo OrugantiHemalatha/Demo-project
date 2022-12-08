@@ -2,7 +2,8 @@ package examples;
 import java.util.List;
 
 public class streams {
-public static void main (String[] args) {
+public static void main (String[] args) 
+{
 	List<Integer>numbers=List.of(14,21,44,19);
 	printAllNumbersInListFunctional(numbers);//function call
 	

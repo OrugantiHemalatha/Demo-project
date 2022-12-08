@@ -1,7 +1,8 @@
 package examples;
 import java.util.List;
 
-public class methodreference {
+public class methodreference 
+{
 	private static void print(String str)
 	{
 		System.out.println(str);

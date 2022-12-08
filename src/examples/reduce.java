@@ -1,7 +1,8 @@
 package examples;
 import java.util.*; 
 
-public class reduce {
+public class reduce 
+{
 	public static void main(String[] args) 
     { 
         // creating a list of Strings 

@@ -1,7 +1,8 @@
 package examples;
 import java.util.*; 
 
-public class distinct {
+public class distinct 
+{
 	public static void main(String[] args) 
     { 
   
